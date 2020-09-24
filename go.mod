@@ -1,4 +1,4 @@
-module github.com/danielhavir/go-ecies
+module github.com/udhos/go-ecies
 
 go 1.15
 

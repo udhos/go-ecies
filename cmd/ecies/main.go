@@ -27,7 +27,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/danielhavir/go-ecies/ecies"
+	"github.com/udhos/go-ecies/ecies"
 )
 
 func main() {
